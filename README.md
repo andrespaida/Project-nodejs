@@ -11,13 +11,13 @@ This project aims to showcase a simple web page built using **HTML** and **Node.
 
 To run this project, follow these steps:
 
-### Download the project image from DockerHub**:
+### Download the project image from DockerHub:
 
 Run the following command to pull the latest image of the project:
 
     docker pull andrespaida/web-page-nodejs:latest
 
-### Create a container from the downloaded image**:
+### Create a container from the downloaded image:
 
 Next, create and run the container with this command:
 
