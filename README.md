@@ -15,7 +15,7 @@ To run this project, follow these steps:
 
 Run the following command to pull the latest image of the project:
 
-   docker pull andrespaida/web-page-nodejs:latest
+    docker pull andrespaida/web-page-nodejs:latest
 
 ### Create a container from the downloaded image**:
 
